@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Patrick Ribeiro 🖐️
 
-<div>
+<div align="center">
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/patrickpcribeiro)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/patrickpcribeiro)
@@ -33,7 +33,7 @@
   
 </div><br/>
   
-  ##
+  ## Commits
  
 <div> 
   
