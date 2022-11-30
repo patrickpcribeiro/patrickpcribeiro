@@ -1,39 +1,66 @@
-## Olá! Eu sou o Patrick Ribeiro 🖐️
+Hi 🖐️ My name is Patrick Ribeiro 
+==========================
 
-<div align="center">
+Full Stack Software Developer
+-----------------------------
+I'm a 7 years old developer and hacking since I was 19. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/patrickpcribeiro)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/patrickpcribeiro)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/patrickpcribeiro)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickpcribeiro/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrickpcribeiro@gmail.com)
- 
+I am also a student at [Universidade Federal do Espirito Santo - UFES](https://www.ufes.br).
 
-<div align="center">
-  
-  <a href="https://github.com/patrickpcribeiro">
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickpcribeiro&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>    
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickpcribeiro&theme=vue&langs_count=10&layout=compact"/>
-        
+* 🌍  I'm based in Vitória, Espirito Santo Brazil
+* ✉️  You can contact me at [patrickpcribeiro@gmail.com](mailto:patrickpcribeiro@gmail.com)
+* 🚀  I'm currently working on [DataGo](https://datago.com.br)
+* 🧠  I'm learning Javascript, Apex programming language
+* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
+
+<a href="https://www.github.com/patrickpcribeiro" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/patrickpcribeiro?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<div>
+
+<a height="130em" href="http://www.github.com/patrickpcribeiro"><img height="130em" src="https://github-readme-stats-peguimasid.vercel.app/api?username=patrickpcribeiro&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="patrickpcribeiro's GitHub stats" /></a>
+<a height="130em" href="http://www.github.com/patrickpcribeiro"><img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=patrickpcribeiro&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a height="130em" href="https://github.com/patrickpcribeiro" align="left"><img height="130em" src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=patrickpcribeiro&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 </div>
-  
- ## Tecnologias que eu uso no meu dia
-  
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
-  
-  
+<a height="330em" href="http://www.github.com/patrickpcribeiro"><img height="330em" src="https://activity-graph.herokuapp.com/graph?username=patrickpcribeiro&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<div align="center">
+
+### Skills
+
+<p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+</p>
+
+
+
+### Socials
+
+<p align="center"> 
+
+<a href="https://www.github.com/patrickpcribeiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/patrickpcribeiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.youtube.com/c/patrickpcribeiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
 </div><br/>
-  
-  ## Commits
+
+### Commits
  
 <div> 
   
