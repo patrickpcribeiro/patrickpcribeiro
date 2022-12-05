@@ -26,9 +26,6 @@ src="https://img.shields.io/github/followers/patrickpcribeiro?logo=github&style=
 <a height="130em" href="http://www.github.com/patrickpcribeiro"><img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=patrickpcribeiro&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a height="130em" href="https://github.com/patrickpcribeiro" align="left"><img height="130em" src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=patrickpcribeiro&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-</div>
-
-<a height="330em" href="http://www.github.com/patrickpcribeiro"><img height="330em" src="https://activity-graph.herokuapp.com/graph?username=patrickpcribeiro&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <div align="center">
 
