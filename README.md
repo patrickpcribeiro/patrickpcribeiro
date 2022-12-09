@@ -3,7 +3,7 @@ Hi 🖐️ My name is Patrick Ribeiro
 
 Full Stack Software Developer
 -----------------------------
-I'm a 7 years old developer and hacking since I was 19. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a developer with 7 years of experience and hacking since I was 19. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
 I am also a student at [Universidade Federal do Espirito Santo - UFES](https://www.ufes.br).
 
